@@ -100,7 +100,7 @@ header {
 /*  landing start */
 
 .landing {
-  background-image: url("/images/landing.jpg");
+  background-image: url("images/landing.jpg");
   background-size: cover;
   display: flex;
   align-items: center;
